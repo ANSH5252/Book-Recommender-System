@@ -53,7 +53,7 @@ BOOK-RECOMMENDER-SYSTEM/
 - **Clone the Repository**  
 ```
 git clone https://github.com/yourusername/BOOK-RECOMMENDER-SYSTEM.git
-cd BOOK-RECOMMENDER-SYSTEM
+cd Book-Recommender-System
 ```
 - **Install Dependencies**  
 ```
@@ -116,7 +116,18 @@ streamlit run app.py
   - Browse most popular books with images and average ratings.
 
 ## 📸 Screenshots
-(Add screenshots here if you have them, or link to a demo video)
+
+![Screenshot 2025-07-01 115054](https://github.com/user-attachments/assets/40b7691d-e826-482d-bf8b-2ea4f1c08489)
+![Screenshot 2025-07-01 115119](https://github.com/user-attachments/assets/2de091f8-6d0c-4a2a-8bcc-ca64e3c0664e)
+![Screenshot 2025-07-01 115144](https://github.com/user-attachments/assets/9c0e46c1-4cb8-44ca-9701-0d439ef84e4d)
+![Screenshot 2025-07-01 115037](https://github.com/user-attachments/assets/20f20ae5-4afb-431c-9da9-f360470a3474)
+![Screenshot 2025-07-01 114956](https://github.com/user-attachments/assets/4403e5fd-5c81-4a8c-a4b5-6c98ae2da7ed)
+![Screenshot 2025-07-01 114908](https://github.com/user-attachments/assets/fe74e448-5da4-4ad2-8ae9-2f5e96e4fa8e)  
+
+ 
+[Book Recommender System Demo](https://github.com/user-attachments/assets/cf2e69ee-90da-42cb-982c-f3ba7aab1393)
+
+
 
 ## 🤝 Contributing
 Contributions, ideas, and suggestions are welcome!
